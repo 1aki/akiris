@@ -1,9 +1,7 @@
 # This is my TETRIS
 I makeing tetris game.
-because...
+because I like tetr.io but our school was blocked tetr.io
 
-
-I like tetr.io but our school was blocked tetr.io
 **DOESN'T MATTER**.
 
 then... **JUST MAKE IT**.
